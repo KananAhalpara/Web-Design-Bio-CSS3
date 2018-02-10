@@ -1,7 +1,7 @@
 # Web-Design-Bio-CSS3
 Web Design Fun assignment of CSS skills second class
 <br><br>
-
+Your site is ready to be published at https://kananahalpara.github.io/Web-Design-Bio-CSS3/.
 <br><br>
 ASSIGNMENT : AS FOLLOWS : 
 <br>
