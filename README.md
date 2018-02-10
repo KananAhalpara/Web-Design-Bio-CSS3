@@ -8,7 +8,7 @@ ASSIGNMENT : AS FOLLOWS :
 Create a simple bio page with a heading, two paragraphs, an image and a link to your email and/or Social Media
  
 
-Use an internal <style> tag to use CSS to style the page. You will need at least the 4 following selectors styled : <body> <h1> <p> <a>
+Use an internal <style> tag to use CSS to style the page. You will need at least the 4 following selectors styled : <body> <h1></h1> <p> <a></a>
 
 Create some basic styles (backgrounds, fonts, colours) that give your page some personal appeal
 
